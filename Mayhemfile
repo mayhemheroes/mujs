@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-mujs
+target: mujs
+
+cmds:
+  - cmd: /repo/build/release/mujs @@
