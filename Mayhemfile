@@ -2,4 +2,4 @@ project: mujs
 target: mujs
 
 cmds:
-  - cmd: /install/usr/local/binmujs @@
+  - cmd: /install/usr/local/bin/mujs @@
