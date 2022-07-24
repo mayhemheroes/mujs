@@ -2,4 +2,4 @@ project: mujs
 target: mujs
 
 cmds:
-  - cmd: /repo/build/release/mujs @@
+  - cmd: /install/usr/local/binmujs @@
